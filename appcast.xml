@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Recapto</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 16 Nov 2026 02:26:11 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/nurb0/recapto-downloads/releases/download/downloads/Recapto-1.0.0-1.zip" length="627345313" type="application/octet-stream" sparkle:edSignature="qKcKXrbFrH6QtfT4uvWQbY6uF5i/Hbw+a6NcY0VFfvEX5IAZj+3uL9+4tkxtpjAQD4noZw820Zjs6CvpF8gWBg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 6NGeReH2bnPNy3IqNL1FZrHoo383nlMYfc+y1CuzR+LWAzskPCwjdQVsLSrvIQFcI8j9I+kHijdndA4pjmSqCQ==
+length: 1131
+-->
